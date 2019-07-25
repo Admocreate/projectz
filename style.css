@@ -11,5 +11,11 @@ body{
 #header{
   background: #808080;
   text-align: center;
+}
+
+#nav{
+    width: 10.8rem;
+    float:left;
+    display:block;
 
 }
